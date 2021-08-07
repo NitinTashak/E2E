@@ -1,0 +1,7 @@
+20:03:55.849 [TestNG-tests-2] INFO  resources.base - Driver is initialized
+20:04:05.101 [TestNG-tests-3] INFO  resources.base - Navigated to URL
+20:04:06.405 [TestNG-tests-4] INFO  resources.base - Navigated to URL
+20:04:06.699 [TestNG-tests-3] INFO  resources.base - Successfuly validated HEADER message
+20:04:07.172 [TestNG-tests-2] INFO  resources.base - Navigated to URL
+20:04:07.288 [TestNG-tests-2] INFO  resources.base - Successfuly validated Navigation bar
+20:04:07.947 [TestNG-tests-4] INFO  resources.base - Nitin
